@@ -47,5 +47,34 @@ Seguí el ciclo de la [guía 06 · Ramas y Pull Requests](../docs/git/06-ramas-y
 - [js-06 · DOM y eventos](04-javascript/06-dom-y-eventos/)
 - [js-07 · Mini proyecto: lista de tareas](04-javascript/07-proyecto-lista-de-tareas/)
 
-### 🏁 Proyecto final
+### 🏁 Proyecto final · Etapa 1
 - [Portfolio personal](05-proyecto-final/)
+
+---
+
+## 🚀 Etapa 2
+
+> Los proyectos de Node y React tienen su propio `package.json`. Después de clonar o de cambiar de rama,
+> entrá a la carpeta `solucion/` del ejercicio y corré `npm install`. La carpeta `node_modules` **nunca** se sube.
+
+### 06 · JavaScript moderno y APIs
+- [jsm-01 · Métodos de arrays, desestructuración y spread](06-javascript-moderno/01-arrays-y-desestructuracion/)
+- [jsm-02 · Módulos](06-javascript-moderno/02-modulos/)
+- [jsm-03 · Asincronía y fetch](06-javascript-moderno/03-async-y-fetch/)
+- [jsm-04 · Mini proyecto: Pokédex](06-javascript-moderno/04-proyecto-pokedex/)
+
+### 07 · Node.js y Express
+- [node-01 · Primeros pasos con Node y npm](07-node/01-primeros-pasos/)
+- [node-02 · Tu primer servidor con Express](07-node/02-servidor-express/)
+- [node-03 · API REST completa (CRUD)](07-node/03-api-rest/)
+- [node-04 · Mini proyecto: API de tareas](07-node/04-proyecto-api-tareas/)
+
+### 08 · React
+- [react-01 · Componentes y props](08-react/01-componentes-y-props/)
+- [react-02 · Estado y eventos](08-react/02-estado-y-eventos/)
+- [react-03 · Listas y formularios](08-react/03-listas-y-formularios/)
+- [react-04 · Efectos y fetch](08-react/04-efectos-y-fetch/)
+- [react-05 · Mini proyecto: tareas full stack](08-react/05-proyecto-tareas-fullstack/)
+
+### 🏆 Proyecto final · Etapa 2
+- [Tu propia app full stack](09-proyecto-final-etapa-2/)

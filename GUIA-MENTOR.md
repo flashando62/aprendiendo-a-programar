@@ -66,7 +66,17 @@ commit nuevo **no alcanza** (queda en el historial): avisá y se limpia con ayud
 - Revisar los PRs dentro de las 24–48 h para que no pierda el envión.
 - Si se traba más de 30 minutos con algo, que pregunte. Si se traba 5 minutos, que siga intentando.
 
-## 6. Publicar el proyecto final con GitHub Pages
+## 6. Etapa 2 (Node.js y React)
+
+- No arrancar hasta que maneje con soltura funciones, arrays, objetos y el DOM. Si React "no le entra",
+  casi siempre el problema es JavaScript base: volver a jsm-01.
+- Al revisar PRs de Node/React, lo primero: que **no** haya `node_modules` ni `.env` en *Files changed*
+  (el `.gitignore` los excluye, pero conviene verificarlo).
+- Para probar sus PRs: `git fetch`, `git switch RAMA`, entrar a `solucion/`, `npm install` y `npm run dev`.
+- En el proyecto final de la etapa 2, pedile el `PLAN.md` y aprobalo **antes** de que empiece a programar,
+  y que trabaje con varias ramas chicas en vez de un PR gigante.
+
+## 7. Publicar el proyecto final con GitHub Pages
 
 **Settings → Pages → Source: Deploy from a branch → Branch: `main`, carpeta `/ (root)`** → Save.
 

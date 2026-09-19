@@ -7,5 +7,16 @@ desktop.ini
 .vscode/*
 !.vscode/extensions.json
 
-# Dependencias (por si más adelante usamos npm)
+# Dependencias de npm (se regeneran con "npm install")
 node_modules/
+
+# Archivos generados por el build de Vite/React
+dist/
+
+# Secretos y configuración local (NUNCA se suben: el repo es público)
+.env
+.env.*
+!.env.example
+
+# Logs
+npm-debug.log*

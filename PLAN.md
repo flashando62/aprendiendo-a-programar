@@ -1,6 +1,12 @@
 # 📅 Plan de aprendizaje
 
-Duración estimada: **unas 17 semanas** (una de fundamentos + 16 de contenido) dedicándole entre 1 y 2 horas por día, 5 días por semana.
+El curso tiene **dos etapas**, dedicándole entre 1 y 2 horas por día, 5 días por semana:
+
+| Etapa | Contenido | Duración |
+|---|---|---|
+| **1 · Fundamentos web** | Fundamentos, Git, HTML, CSS, JavaScript y un portfolio publicado | ~17 semanas |
+| **2 · Full stack** | JavaScript moderno, Node.js, React y una app completa propia | ~16 semanas |
+
 Es una guía, no una carrera: si un tema lleva más tiempo, se toma más tiempo.
 
 > 🧭 **Cómo usar este plan:** cada semana tiene *qué leer/ver*, *qué ejercicios hacer*
@@ -8,6 +14,8 @@ Es una guía, no una carrera: si un tema lleva más tiempo, se toma más tiempo.
 > a todo lo de "Al terminar...", pasás a la siguiente.
 
 ---
+
+# 🌱 Etapa 1 · Fundamentos web
 
 ## Módulo 0 · Fundamentos y preparación (Semana 0)
 
@@ -150,7 +158,7 @@ y [javascript.info en español](https://es.javascript.info/)
 
 ---
 
-## 🏁 Proyecto final (Semana 16)
+## 🏁 Proyecto final de la Etapa 1 (Semana 16)
 
 Juntás todo lo aprendido para hacer **tu portfolio personal** y publicarlo gratis en
 internet con GitHub Pages. Vas a tener un link para mostrarle a cualquiera.
@@ -158,11 +166,108 @@ internet con GitHub Pages. Vas a tener un link para mostrarle a cualquiera.
 👉 [Proyecto final](ejercicios/05-proyecto-final/)
 
 ---
+---
+
+# 🚀 Etapa 2 · JavaScript moderno, Node.js y React
+
+**Duración estimada: unas 16 semanas más.** Empezá **solo** cuando termines la Etapa 1 y te sientas
+cómoda con JavaScript (funciones, arrays, objetos, DOM). Si en algún momento algo de la Etapa 2 no se entiende,
+casi siempre la solución es **volver a repasar JavaScript**.
+
+¿Por qué estas tecnologías?
+- **Node.js** te deja usar el JavaScript que ya sabés **del lado del servidor**: vas a poder hacer tu propio backend.
+- **React** es la herramienta más usada del mundo para hacer interfaces web. Es lo que más piden las ofertas de trabajo para frontend.
+- Juntas, te permiten hacer una **aplicación completa (full stack)** con un solo lenguaje.
+
+---
+
+## Módulo 5 · JavaScript moderno y APIs (Semanas 17 a 20)
+
+El "puente" hacia Node y React. Son herramientas de JavaScript que React y Node usan **en cada línea**.
+
+- 🧠 **Empezá por acá:** [JavaScript moderno · Conceptos clave](docs/javascript-moderno/conceptos-clave.md)
+- 📚 Material de apoyo: [javascript.info en español](https://es.javascript.info/) (partes de arrays, destructuring, módulos, promesas y async/await)
+
+| Semana | Temas | Ejercicios |
+|---|---|---|
+| 17 | Funciones flecha, `map` / `filter` / `find` / `reduce`, desestructuración, spread | [jsm-01](ejercicios/06-javascript-moderno/01-arrays-y-desestructuracion/) |
+| 18 | Módulos (`import` / `export`), JSON | [jsm-02](ejercicios/06-javascript-moderno/02-modulos/) |
+| 19 | Asincronía, promesas, `async` / `await`, `fetch`, qué es una API | [jsm-03](ejercicios/06-javascript-moderno/03-async-y-fetch/) |
+| 20 | Mini proyecto con una API real | [jsm-04 · Pokédex](ejercicios/06-javascript-moderno/04-proyecto-pokedex/) |
+
+**Al terminar sabés:**
+- [ ] Resolver problemas con `map`, `filter`, `find` y `reduce` en lugar de `for`
+- [ ] Copiar y modificar arrays y objetos **sin** cambiar el original (spread)
+- [ ] Dividir el código en módulos con `import` / `export`
+- [ ] Explicar qué es una promesa y usar `async` / `await` con `try` / `catch`
+- [ ] Pedir datos a una API con `fetch` y mostrarlos en la página
+- [ ] Explicar qué es un endpoint, los métodos HTTP y los códigos de estado
+
+---
+
+## Módulo 6 · Node.js y Express (Semanas 21 a 24)
+
+JavaScript fuera del navegador: tu primer **backend**.
+
+- 🧠 **Empezá por acá:** [Node.js · Conceptos clave](docs/node/conceptos-clave.md)
+- 📚 Material de apoyo: [Aprende Node.js (sitio oficial, en inglés)](https://nodejs.org/en/learn) y [Guía de Express en español](https://expressjs.com/es/)
+
+| Semana | Temas | Ejercicios |
+|---|---|---|
+| 21 | Qué es Node, instalarlo, npm, `package.json`, leer y escribir archivos | [node-01](ejercicios/07-node/01-primeros-pasos/) |
+| 22 | Servidor web con Express, rutas, parámetros, archivos estáticos | [node-02](ejercicios/07-node/02-servidor-express/) |
+| 23 | API REST: CRUD, métodos HTTP, códigos de estado, probar con Thunder Client | [node-03](ejercicios/07-node/03-api-rest/) |
+| 24 | Mini proyecto: API con datos que persisten | [node-04 · API de tareas](ejercicios/07-node/04-proyecto-api-tareas/) |
+
+**Al terminar sabés:**
+- [ ] Explicar la diferencia entre JavaScript en el navegador y en Node
+- [ ] Usar npm: `init`, `install`, scripts, y saber por qué `node_modules` no se sube
+- [ ] Crear un servidor con Express y rutas que respondan JSON
+- [ ] Hacer un CRUD completo con validaciones y códigos de estado correctos
+- [ ] Guardar datos en un archivo para que no se pierdan
+- [ ] Explicar qué es CORS y activarlo
+
+---
+
+## Módulo 7 · React (Semanas 25 a 30)
+
+Interfaces modernas con componentes.
+
+- 🧠 **Empezá por acá:** [React · Conceptos clave](docs/react/conceptos-clave.md)
+- 📚 Material de apoyo: [react.dev en español](https://es.react.dev/learn) ⭐ (la documentación oficial es excelente: hacé el tutorial "Tres en línea")
+
+| Semana | Temas | Ejercicios |
+|---|---|---|
+| 25 | Qué es React, Vite, componentes, JSX, props, listas con `key` | [react-01](ejercicios/08-react/01-componentes-y-props/) |
+| 26 | Estado con `useState`, eventos, pasar funciones por props | [react-02](ejercicios/08-react/02-estado-y-eventos/) |
+| 27 | Formularios controlados, actualizar arrays en el estado, "Pensar en React" | [react-03](ejercicios/08-react/03-listas-y-formularios/) |
+| 28 | `useEffect`, pedir datos a una API, cargando y errores | [react-04](ejercicios/08-react/04-efectos-y-fetch/) |
+| 29–30 | Mini proyecto full stack: React + tu API de Node | [react-05 · Tareas full stack](ejercicios/08-react/05-proyecto-tareas-fullstack/) |
+
+**Al terminar sabés:**
+- [ ] Crear un proyecto con Vite y dividir la interfaz en componentes
+- [ ] Pasar datos con props y explicar la diferencia con el estado
+- [ ] Actualizar el estado correctamente (sin modificarlo directo)
+- [ ] Hacer formularios controlados
+- [ ] Usar `useEffect` para pedir datos, sabiendo cuándo **no** hace falta
+- [ ] Conectar un frontend de React con tu propia API
+
+---
+
+## 🏆 Proyecto final de la Etapa 2 (Semanas 31 y 32)
+
+Tu propia aplicación **full stack**, de una idea tuya, trabajando con ramas chicas y Pull Requests como en un equipo real.
+
+👉 [Proyecto final · Etapa 2](ejercicios/09-proyecto-final-etapa-2/)
+
+---
 
 ## ¿Y después?
 
-Cuando termines este plan, algunos caminos posibles:
-- Profundizar JavaScript (promesas, `fetch`, consumir APIs)
-- Aprender un framework como React
-- Aprender backend (Node.js, bases de datos)
-- Seguir con [freeCodeCamp en español](https://www.freecodecamp.org/espanol/) para practicar más
+Con las dos etapas terminadas tenés la base de una desarrolladora **junior**. Algunos caminos para seguir:
+- **Bases de datos:** SQL (PostgreSQL, SQLite) o MongoDB, para reemplazar el archivo JSON
+- **TypeScript:** JavaScript con tipos; muy pedido en el mercado
+- **Testing:** escribir pruebas automáticas para tu código
+- **Next.js:** un framework sobre React para apps más grandes
+- **Autenticación:** usuarios, login y contraseñas de forma segura
+- Seguir practicando con [freeCodeCamp en español](https://www.freecodecamp.org/espanol/) y construyendo **tus propios proyectos**

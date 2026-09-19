@@ -78,6 +78,39 @@ Palabras que vas a escuchar todo el tiempo. Volvé acá cada vez que aparezca un
 | **String** | Un texto, entre comillas: `"Hola"`. |
 | **Variable** | Una "cajita" con nombre donde guardás un valor. |
 
+### Etapa 2 · JavaScript moderno, Node y React
+
+| Palabra | Qué significa |
+|---|---|
+| **API** | Una "ventanilla" que ofrece un programa para que otros le pidan datos o acciones. |
+| **Asincronía** | Código que no espera parado: sigue con otra cosa y vuelve cuando la tarea lenta termina. |
+| **`async` / `await`** | La forma cómoda de escribir código asíncrono: `await` "espera" una promesa. |
+| **Componente** | En React, una función que devuelve una parte de la interfaz. Piezas de Lego. |
+| **CORS** | Regla de seguridad del navegador que bloquea pedidos a otro origen si el servidor no da permiso. |
+| **CRUD** | *Create, Read, Update, Delete*: las 4 operaciones básicas sobre datos. |
+| **Dependencia / paquete** | Código de otra persona que instalás con npm para usar en tu proyecto. |
+| **Desestructuración** | Sacar valores de un objeto o array en variables: `const { nombre } = usuario`. |
+| **Endpoint** | Una dirección concreta de una API: `GET /api/tareas`. |
+| **Estado (state)** | En React, los datos que cambian y que, al cambiar, actualizan la pantalla (`useState`). |
+| **Express** | Paquete de Node para crear servidores y APIs. |
+| **Full stack** | Que abarca frontend **y** backend. |
+| **Hook** | Funciones de React que empiezan con `use`: `useState`, `useEffect`. |
+| **JSON** | Formato de texto para intercambiar datos: `{ "nombre": "Ana" }`. |
+| **JSX** | La sintaxis parecida a HTML que se escribe dentro de JavaScript en React. |
+| **Método HTTP** | Qué querés hacer con un pedido: `GET` (leer), `POST` (crear), `PATCH` (modificar), `DELETE` (borrar). |
+| **Módulo** | Un archivo de JS que exporta cosas para que otros archivos las importen. |
+| **Node.js** | Programa que ejecuta JavaScript fuera del navegador. |
+| **npm** | El administrador de paquetes de Node. |
+| **`node_modules`** | Carpeta donde npm guarda los paquetes. Nunca se sube a Git. |
+| **`package.json`** | Archivo con los datos de un proyecto de Node: nombre, paquetes y scripts. |
+| **Promesa** | Un valor que todavía no está pero va a estar (o va a fallar). |
+| **Props** | En React, los datos que un componente recibe de su padre. |
+| **Puerto** | Una "puerta" numerada de la compu donde escucha un servidor: `localhost:3000`. |
+| **React** | Librería de JavaScript para construir interfaces con componentes. |
+| **Spread (`...`)** | Operador que "desparrama" un array u objeto para copiarlo o combinarlo. |
+| **Status code** | Número que indica cómo salió un pedido: 200 OK, 404 no existe, 500 error del servidor. |
+| **Vite** | Herramienta para crear y ejecutar proyectos de React. |
+
 ### Git
 
 | Palabra | Qué significa |

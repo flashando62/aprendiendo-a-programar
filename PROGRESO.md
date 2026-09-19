@@ -5,6 +5,8 @@ Cada vez que termines algo, cambiá `[ ]` por `[x]` y hacé un commit.
 
 > Tip: este archivo también sirve para practicar Git. Cada marca es una excusa para un commit.
 
+# 🌱 Etapa 1
+
 ## Módulo 0 · Fundamentos y preparación
 - [ ] Leí Fundamentos 01 a 04 (archivos, teclado, web, qué es programar)
 - [ ] Activé las extensiones de archivo en Windows
@@ -58,3 +60,38 @@ Cada vez que termines algo, cambiá `[ ]` por `[x]` y hacé un commit.
 ## 🏁 Proyecto final
 - [ ] Portfolio terminado
 - [ ] Portfolio publicado con GitHub Pages 🚀
+
+---
+
+# 🚀 Etapa 2
+
+## Módulo 5 · JavaScript moderno y APIs
+- [ ] Leí JavaScript moderno · Conceptos clave y respondí la autoevaluación
+- [ ] jsm-01 · Arrays, desestructuración y spread
+- [ ] jsm-02 · Módulos
+- [ ] jsm-03 · Asincronía y fetch
+- [ ] jsm-04 · Mini proyecto: Pokédex
+
+## Módulo 6 · Node.js y Express
+- [ ] Leí Node.js · Conceptos clave y respondí la autoevaluación
+- [ ] Instalé Node.js
+- [ ] node-01 · Primeros pasos con Node y npm
+- [ ] node-02 · Servidor con Express
+- [ ] node-03 · API REST (CRUD)
+- [ ] node-04 · Mini proyecto: API de tareas
+
+## Módulo 7 · React
+- [ ] Leí React · Conceptos clave y respondí la autoevaluación
+- [ ] Hice el tutorial "Tres en línea" de react.dev
+- [ ] react-01 · Componentes y props
+- [ ] react-02 · Estado y eventos
+- [ ] react-03 · Listas y formularios
+- [ ] react-04 · Efectos y fetch
+- [ ] react-05 · Mini proyecto: tareas full stack
+
+## 🏆 Proyecto final · Etapa 2
+- [ ] Elegí la idea e hice el PLAN.md
+- [ ] Backend terminado
+- [ ] Frontend terminado
+- [ ] README con capturas e instrucciones
+- [ ] (Extra) Publicado en internet 🌍

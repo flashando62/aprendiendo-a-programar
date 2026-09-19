@@ -9,6 +9,8 @@ No necesitás saber nada de antemano. Vamos paso a paso.
 
 ## 🗺️ ¿Qué vas a aprender?
 
+### 🌱 Etapa 1 · Fundamentos web
+
 | Módulo | Tema | Para qué sirve |
 |---|---|---|
 | 0 | [Fundamentos](docs/fundamentos/README.md) y [preparar la compu](docs/git/00-preparar-la-compu.md) | Entender las bases e instalar las herramientas |
@@ -17,6 +19,15 @@ No necesitás saber nada de antemano. Vamos paso a paso.
 | 3 | **CSS** | El diseño de una página web (colores, tamaños, posiciones) |
 | 4 | **JavaScript** | El comportamiento de una página web (botones, cálculos, interacción) |
 | 🏁 | **Proyecto final** | Tu propio portfolio publicado en internet |
+
+### 🚀 Etapa 2 · Full stack (cuando termines la Etapa 1)
+
+| Módulo | Tema | Para qué sirve |
+|---|---|---|
+| 5 | **JavaScript moderno y APIs** | Las herramientas de JS que usan Node y React; pedir datos a internet |
+| 6 | **Node.js y Express** | Hacer tu propio backend: servidores y APIs |
+| 7 | **React** | Interfaces modernas con componentes |
+| 🏆 | **Proyecto final** | Tu propia aplicación full stack (React + Node) |
 
 El detalle semana por semana está en 👉 **[PLAN.md](PLAN.md)**.
 
@@ -47,6 +58,7 @@ El detalle semana por semana está en 👉 **[PLAN.md](PLAN.md)**.
    8. [Machete de comandos](docs/git/08-machete.md)
 4. Antes de cada lenguaje, leé sus **conceptos clave**:
    [HTML](docs/html/conceptos-clave.md) · [CSS](docs/css/conceptos-clave.md) · [JavaScript](docs/javascript/conceptos-clave.md)
+   · Etapa 2: [JavaScript moderno](docs/javascript-moderno/conceptos-clave.md) · [Node.js](docs/node/conceptos-clave.md) · [React](docs/react/conceptos-clave.md)
 5. Hacé los ejercicios de la carpeta [`ejercicios/`](ejercicios/).
 6. Marcá tu avance en [PROGRESO.md](PROGRESO.md).
 
@@ -65,13 +77,20 @@ El detalle semana por semana está en 👉 **[PLAN.md](PLAN.md)**.
 │   ├── git/             ← guías paso a paso de Git
 │   ├── html/            ← conceptos clave de HTML
 │   ├── css/             ← conceptos clave de CSS
-│   └── javascript/      ← conceptos clave de JavaScript
+│   ├── javascript/      ← conceptos clave de JavaScript
+│   ├── javascript-moderno/  ← Etapa 2
+│   ├── node/                ← Etapa 2
+│   └── react/               ← Etapa 2
 └── ejercicios/
     ├── 01-git/
     ├── 02-html/
     ├── 03-css/
     ├── 04-javascript/
-    └── 05-proyecto-final/
+    ├── 05-proyecto-final/
+    ├── 06-javascript-moderno/       ← Etapa 2
+    ├── 07-node/                     ← Etapa 2
+    ├── 08-react/                    ← Etapa 2
+    └── 09-proyecto-final-etapa-2/   ← Etapa 2
 ```
 
 Cada ejercicio tiene su propia carpeta con un `README.md` que explica **qué hay que hacer**.
