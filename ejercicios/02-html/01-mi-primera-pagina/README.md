@@ -1,7 +1,8 @@
 # html-01 · Mi primera página 🌐
 
-**Rama:** `html-01`
-📚 Leer antes: [MDN — Primeros pasos con HTML](https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
+- **Rama:** `html-01`
+- 🧠 Leer antes: [HTML · Conceptos clave](../../../docs/html/conceptos-clave.md) (¡importante!)
+- 📚 De apoyo: [MDN — Primeros pasos con HTML](https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 
 ## Un poquito de teoría
 

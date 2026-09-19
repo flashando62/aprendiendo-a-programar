@@ -1,6 +1,6 @@
 # git-03 · Responder una revisión 💬
 
-**Rama:** `git-03`
+- **Rama:** `git-03`
 
 ## Objetivo
 Practicar lo que pasa **todos los días** en un trabajo de programación: alguien revisa tu código,

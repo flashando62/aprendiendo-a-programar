@@ -1,8 +1,8 @@
 # css-04 · Flexbox ↔️
 
-**Rama:** `css-04`
-📚 Leer antes: [MDN — Flexbox](https://developer.mozilla.org/es/docs/Learn/CSS/CSS_layout/Flexbox)
-🎮 Jugar antes: [Flexbox Froggy](https://flexboxfroggy.com/#es) (¡terminá los 24 niveles!)
+- **Rama:** `css-04`
+- 📚 Leer antes: [MDN — Flexbox](https://developer.mozilla.org/es/docs/Learn/CSS/CSS_layout/Flexbox)
+- 🎮 Jugar antes: [Flexbox Froggy](https://flexboxfroggy.com/#es) (¡terminá los 24 niveles!)
 
 ## Un poquito de teoría
 

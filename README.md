@@ -11,7 +11,7 @@ No necesitás saber nada de antemano. Vamos paso a paso.
 
 | Módulo | Tema | Para qué sirve |
 |---|---|---|
-| 0 | [Preparar la compu](docs/git/00-preparar-la-compu.md) | Instalar las herramientas |
+| 0 | [Fundamentos](docs/fundamentos/README.md) y [preparar la compu](docs/git/00-preparar-la-compu.md) | Entender las bases e instalar las herramientas |
 | 1 | **Git y GitHub** | Guardar y compartir tu código (lo vas a usar en TODO el curso) |
 | 2 | **HTML** | El contenido de una página web (textos, imágenes, enlaces) |
 | 3 | **CSS** | El diseño de una página web (colores, tamaños, posiciones) |
@@ -25,7 +25,17 @@ El detalle semana por semana está en 👉 **[PLAN.md](PLAN.md)**.
 ## 🚀 ¿Por dónde empiezo?
 
 1. Leé [PLAN.md](PLAN.md) para ver el camino completo.
-2. Seguí las guías de Git **en orden**:
+2. Empezá por los **[Fundamentos](docs/fundamentos/README.md)**: lo que nadie explica porque "se da por sabido".
+   1. [Archivos y carpetas](docs/fundamentos/01-archivos-y-carpetas.md)
+   2. [El teclado y los atajos](docs/fundamentos/02-teclado-y-atajos.md)
+   3. [Cómo funciona la web](docs/fundamentos/03-como-funciona-la-web.md)
+   4. [¿Qué es programar?](docs/fundamentos/04-que-es-programar.md)
+   5. [Visual Studio Code](docs/fundamentos/05-vs-code.md)
+   6. [Rutas de archivos](docs/fundamentos/06-rutas-de-archivos.md)
+   7. [Markdown](docs/fundamentos/07-markdown.md)
+   8. [Cómo aprender, buscar y pedir ayuda](docs/fundamentos/08-aprender-y-pedir-ayuda.md)
+   9. [Glosario](docs/fundamentos/09-glosario.md) 📖
+3. Seguí las guías de Git **en orden**:
    0. [Preparar la compu](docs/git/00-preparar-la-compu.md)
    1. [La terminal sin miedo](docs/git/01-la-terminal.md)
    2. [¿Qué es Git y qué es GitHub?](docs/git/02-que-es-git.md)
@@ -35,8 +45,10 @@ El detalle semana por semana está en 👉 **[PLAN.md](PLAN.md)**.
    6. [Ramas y Pull Requests: cómo entregar ejercicios](docs/git/06-ramas-y-pull-requests.md)
    7. [¡Socorro! Errores comunes](docs/git/07-errores-comunes.md)
    8. [Machete de comandos](docs/git/08-machete.md)
-3. Hacé los ejercicios de la carpeta [`ejercicios/`](ejercicios/).
-4. Marcá tu avance en [PROGRESO.md](PROGRESO.md).
+4. Antes de cada lenguaje, leé sus **conceptos clave**:
+   [HTML](docs/html/conceptos-clave.md) · [CSS](docs/css/conceptos-clave.md) · [JavaScript](docs/javascript/conceptos-clave.md)
+5. Hacé los ejercicios de la carpeta [`ejercicios/`](ejercicios/).
+6. Marcá tu avance en [PROGRESO.md](PROGRESO.md).
 
 ---
 
@@ -49,7 +61,11 @@ El detalle semana por semana está en 👉 **[PLAN.md](PLAN.md)**.
 ├── PROGRESO.md          ← tu checklist de avance (lo vas completando vos)
 ├── GUIA-MENTOR.md       ← instrucciones para quien te enseña
 ├── docs/
-│   └── git/             ← guías paso a paso de Git
+│   ├── fundamentos/     ← las bases: archivos, teclado, web, programar, VS Code...
+│   ├── git/             ← guías paso a paso de Git
+│   ├── html/            ← conceptos clave de HTML
+│   ├── css/             ← conceptos clave de CSS
+│   └── javascript/      ← conceptos clave de JavaScript
 └── ejercicios/
     ├── 01-git/
     ├── 02-html/

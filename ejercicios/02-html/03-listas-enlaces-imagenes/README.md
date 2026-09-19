@@ -1,10 +1,11 @@
 # html-03 · Listas, enlaces e imágenes 🔗🖼️
 
-**Rama:** `html-03`
-📚 Leer antes:
-- [MDN — Listas](https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals#listas)
-- [MDN — Crear hipervínculos](https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks)
-- [MDN — Imágenes en HTML](https://developer.mozilla.org/es/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
+- **Rama:** `html-03`
+- 🧭 **Leer antes, sí o sí:** [Rutas de archivos](../../../docs/fundamentos/06-rutas-de-archivos.md) — sin esto, las imágenes y los enlaces no van a funcionar.
+- 📚 De apoyo:
+  - [MDN — Listas](https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals#listas)
+  - [MDN — Crear hipervínculos](https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks)
+  - [MDN — Imágenes en HTML](https://developer.mozilla.org/es/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
 
 ## Etiquetas nuevas
 

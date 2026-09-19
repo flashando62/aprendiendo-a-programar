@@ -27,6 +27,37 @@ El `~` es tu **carpeta personal** (en Windows, `C:\Users\tu-nombre`).
 
 ---
 
+## Anatomía de un comando
+
+Todos los comandos tienen la misma forma. Aprendela y vas a poder leer cualquiera:
+
+```
+git  commit  -m  "Agrego mi foto"
+└┬┘  └──┬─┘  └┬┘ └──────┬───────┘
+programa  │  opción   valor de la opción
+      subcomando
+```
+
+| Parte | Qué es | Ejemplo |
+|---|---|---|
+| **Programa** | Quién hace el trabajo | `git`, `cd`, `ls` |
+| **Subcomando** | Qué le pedís (algunos programas, como git, tienen muchos) | `commit`, `push`, `status` |
+| **Argumento** | Sobre qué cosa actuar | `cd Documents` → `Documents` |
+| **Opción** (*flag*) | Modifica cómo trabaja. Empieza con `-` (letra) o `--` (palabra) | `-m`, `-u`, `--global`, `--oneline` |
+
+- Las partes se separan con **un espacio**. `git commit` ✅ · `gitcommit` ❌
+- Si un valor tiene espacios, va **entre comillas**: `-m "Mi primer commit"`.
+- Lo que va después de un `#` es un **comentario** (una nota en las guías). Si lo copiás, se ignora.
+- Apretás **Enter** para ejecutar. Si no pasa nada y vuelve a aparecer el `$`, casi siempre
+  significa que **salió bien**. (Los programas de terminal suelen hablar solo cuando hay algo para decir.)
+
+> 💡 Casi todos los comandos tienen ayuda: `git status --help` o `ls --help`.
+
+> ⚠️ Recordá: en la terminal **`Ctrl + C` cancela**, no copia. Para pegar usá **clic derecho → Paste** o `Shift + Insert`
+> (ver [El teclado y los atajos](../fundamentos/02-teclado-y-atajos.md)).
+
+---
+
 ## Los 6 comandos que necesitás
 
 ### 1. `pwd` — ¿Dónde estoy?

@@ -1,9 +1,10 @@
 # js-01 · Variables y tipos de datos 📦
 
-**Rama:** `js-01`
-📚 Leer antes:
-- [MDN — ¿Qué es JavaScript?](https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
-- [javascript.info — Variables](https://es.javascript.info/variables) y [Tipos de datos](https://es.javascript.info/types)
+- **Rama:** `js-01`
+- 🧠 Leer antes: [JavaScript · Conceptos clave](../../../docs/javascript/conceptos-clave.md) (¡importante!)
+- 📚 De apoyo:
+  - [MDN — ¿Qué es JavaScript?](https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
+  - [javascript.info — Variables](https://es.javascript.info/variables) y [Tipos de datos](https://es.javascript.info/types)
 
 ## Programar es dar instrucciones
 

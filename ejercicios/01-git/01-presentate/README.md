@@ -1,6 +1,7 @@
 # git-01 · Presentate (tu primer Pull Request) 👋
 
-**Rama:** `git-01`
+- **Rama:** `git-01`
+- 🧠 Leer antes: [Markdown](../../../docs/fundamentos/07-markdown.md)
 
 ## Objetivo
 Hacer el ciclo completo por primera vez: rama → cambio → commit → push → Pull Request → merge.

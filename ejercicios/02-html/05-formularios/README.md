@@ -1,7 +1,7 @@
 # html-05 · Formularios 📝
 
-**Rama:** `html-05`
-📚 Leer antes: [MDN — Tu primer formulario](https://developer.mozilla.org/es/docs/Learn/Forms/Your_first_form)
+- **Rama:** `html-05`
+- 📚 Leer antes: [MDN — Tu primer formulario](https://developer.mozilla.org/es/docs/Learn/Forms/Your_first_form)
 
 ## Etiquetas nuevas
 

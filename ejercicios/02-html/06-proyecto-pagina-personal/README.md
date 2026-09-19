@@ -1,7 +1,7 @@
 # html-06 · Mini proyecto: tu página personal 🏠
 
-**Rama:** `html-06`
-📚 Leer antes: [MDN — Estructura del documento y del sitio web](https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
+- **Rama:** `html-06`
+- 📚 Leer antes: [MDN — Estructura del documento y del sitio web](https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
 
 ## HTML semántico
 

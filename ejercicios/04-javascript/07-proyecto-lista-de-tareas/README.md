@@ -1,6 +1,6 @@
 # js-07 · Mini proyecto: lista de tareas ✅
 
-**Rama:** `js-07`
+- **Rama:** `js-07`
 
 El clásico proyecto con el que **todos** los programadores practicamos: una app para anotar tareas.
 

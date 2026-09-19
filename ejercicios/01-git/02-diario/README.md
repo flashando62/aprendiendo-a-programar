@@ -1,6 +1,6 @@
 # git-02 · Tu diario de aprendizaje 📓
 
-**Rama:** `git-02`
+- **Rama:** `git-02`
 
 ## Objetivo
 Acostumbrarte a hacer **varios commits chicos** con buenos mensajes, y usar `git log` y `git diff`.

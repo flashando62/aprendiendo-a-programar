@@ -1,7 +1,8 @@
 # css-01 · Primeros estilos 🎨
 
-**Rama:** `css-01`
-📚 Leer antes: [MDN — ¿Qué es CSS?](https://developer.mozilla.org/es/docs/Learn/CSS/First_steps/What_is_CSS)
+- **Rama:** `css-01`
+- 🧠 Leer antes: [CSS · Conceptos clave](../../../docs/css/conceptos-clave.md) (¡importante!)
+- 📚 De apoyo: [MDN — ¿Qué es CSS?](https://developer.mozilla.org/es/docs/Learn/CSS/First_steps/What_is_CSS)
 
 ## Un poquito de teoría
 

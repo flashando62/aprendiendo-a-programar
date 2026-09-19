@@ -1,7 +1,7 @@
 # js-05 · Arrays y objetos 🗂️
 
-**Rama:** `js-05`
-📚 Leer antes: [javascript.info — Arrays](https://es.javascript.info/array), [Objetos](https://es.javascript.info/object)
+- **Rama:** `js-05`
+- 📚 Leer antes: [javascript.info — Arrays](https://es.javascript.info/array), [Objetos](https://es.javascript.info/object)
 
 ## Arrays: listas de cosas
 

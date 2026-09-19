@@ -1,7 +1,7 @@
 # js-03 · Bucles 🔁
 
-**Rama:** `js-03`
-📚 Leer antes: [javascript.info — Bucles: while y for](https://es.javascript.info/while-for)
+- **Rama:** `js-03`
+- 📚 Leer antes: [javascript.info — Bucles: while y for](https://es.javascript.info/while-for)
 
 ## Repetir sin copiar y pegar
 

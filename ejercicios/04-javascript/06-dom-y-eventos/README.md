@@ -1,9 +1,9 @@
 # js-06 · El DOM y los eventos 🖱️
 
-**Rama:** `js-06`
-📚 Leer antes:
-- [MDN — Manipular documentos](https://developer.mozilla.org/es/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents)
-- [javascript.info — Introducción a los eventos](https://es.javascript.info/introduction-browser-events)
+- **Rama:** `js-06`
+- 📚 Leer antes:
+  - [MDN — Manipular documentos](https://developer.mozilla.org/es/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents)
+  - [javascript.info — Introducción a los eventos](https://es.javascript.info/introduction-browser-events)
 
 ## Acá se junta todo: HTML + CSS + JavaScript ✨
 

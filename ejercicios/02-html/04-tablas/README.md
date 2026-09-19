@@ -1,7 +1,7 @@
 # html-04 · Tablas 📊
 
-**Rama:** `html-04`
-📚 Leer antes: [MDN — Tablas en HTML](https://developer.mozilla.org/es/docs/Learn/HTML/Tables/Basics)
+- **Rama:** `html-04`
+- 📚 Leer antes: [MDN — Tablas en HTML](https://developer.mozilla.org/es/docs/Learn/HTML/Tables/Basics)
 
 ## Etiquetas nuevas
 

@@ -1,7 +1,7 @@
 # js-02 · Condicionales 🔀
 
-**Rama:** `js-02`
-📚 Leer antes: [javascript.info — Operadores de comparación](https://es.javascript.info/comparison), [Condicionales](https://es.javascript.info/ifelse) y [Operadores lógicos](https://es.javascript.info/logical-operators)
+- **Rama:** `js-02`
+- 📚 Leer antes: [javascript.info — Operadores de comparación](https://es.javascript.info/comparison), [Condicionales](https://es.javascript.info/ifelse) y [Operadores lógicos](https://es.javascript.info/logical-operators)
 
 ## Tomar decisiones
 

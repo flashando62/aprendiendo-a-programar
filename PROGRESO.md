@@ -5,14 +5,20 @@ Cada vez que termines algo, cambiá `[ ]` por `[x]` y hacé un commit.
 
 > Tip: este archivo también sirve para practicar Git. Cada marca es una excusa para un commit.
 
-## Módulo 0 · Preparación
+## Módulo 0 · Fundamentos y preparación
+- [ ] Leí Fundamentos 01 a 04 (archivos, teclado, web, qué es programar)
+- [ ] Activé las extensiones de archivo en Windows
+- [ ] Escribí el pseudocódigo de la práctica de "¿Qué es programar?"
 - [ ] Instalé Git
 - [ ] Instalé Visual Studio Code
 - [ ] Creé mi cuenta de GitHub
 - [ ] Configuré mi nombre y email en Git
+- [ ] Sé abrir una carpeta en VS Code y activé el guardado automático
 - [ ] Sé moverme por carpetas con la terminal
+- [ ] Leí "Cómo aprender y pedir ayuda"
 
 ## Módulo 1 · Git y GitHub
+- [ ] Leí Markdown
 - [ ] Cloné el repo en mi compu
 - [ ] Hice mi primer commit y push (en la rama de práctica)
 - [ ] git-01 · Presentate (primer Pull Request)
@@ -21,6 +27,8 @@ Cada vez que termines algo, cambiá `[ ]` por `[x]` y hacé un commit.
 - [ ] Hice los primeros niveles de Learn Git Branching
 
 ## Módulo 2 · HTML
+- [ ] Leí HTML · Conceptos clave y respondí la autoevaluación
+- [ ] Leí Rutas de archivos e hice su práctica
 - [ ] html-01 · Mi primera página
 - [ ] html-02 · Textos
 - [ ] html-03 · Listas, enlaces e imágenes
@@ -29,6 +37,7 @@ Cada vez que termines algo, cambiá `[ ]` por `[x]` y hacé un commit.
 - [ ] html-06 · Mini proyecto: página personal
 
 ## Módulo 3 · CSS
+- [ ] Leí CSS · Conceptos clave y respondí la autoevaluación
 - [ ] css-01 · Primeros estilos
 - [ ] css-02 · Selectores
 - [ ] css-03 · Modelo de caja
@@ -37,6 +46,7 @@ Cada vez que termines algo, cambiá `[ ]` por `[x]` y hacé un commit.
 - [ ] css-06 · Mini proyecto: estilos de la página personal
 
 ## Módulo 4 · JavaScript
+- [ ] Leí JavaScript · Conceptos clave y respondí la autoevaluación
 - [ ] js-01 · Variables
 - [ ] js-02 · Condicionales
 - [ ] js-03 · Bucles

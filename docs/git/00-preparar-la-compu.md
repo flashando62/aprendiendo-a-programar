@@ -1,5 +1,8 @@
 # 00 · Preparar la compu
 
+> 📌 Antes de esta guía, leé los [Fundamentos 01 a 04](../fundamentos/README.md)
+> (archivos, teclado, cómo funciona la web y qué es programar).
+
 Antes de programar necesitamos 3 cosas:
 
 | Herramienta | ¿Qué es? | Analogía |
@@ -82,4 +85,6 @@ Tienen que aparecer tu nombre y tu email.
 
 ## 🎉 ¡Listo!
 
-Ya tenés todo instalado. Siguiente paso: [01 · La terminal sin miedo](01-la-terminal.md)
+Ya tenés todo instalado. Siguiente paso: aprender a usar tu editor →
+[Fundamentos · 05 · Visual Studio Code](../fundamentos/05-vs-code.md), y después
+[01 · La terminal sin miedo](01-la-terminal.md).

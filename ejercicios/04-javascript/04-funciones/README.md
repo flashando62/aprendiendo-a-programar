@@ -1,7 +1,7 @@
 # js-04 · Funciones 🧩
 
-**Rama:** `js-04`
-📚 Leer antes: [javascript.info — Funciones](https://es.javascript.info/function-basics)
+- **Rama:** `js-04`
+- 📚 Leer antes: [javascript.info — Funciones](https://es.javascript.info/function-basics)
 
 ## Recetas reutilizables
 

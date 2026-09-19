@@ -1,7 +1,7 @@
 # css-03 · El modelo de caja 📦
 
-**Rama:** `css-03`
-📚 Leer antes: [MDN — El modelo de caja](https://developer.mozilla.org/es/docs/Learn/CSS/Building_blocks/The_box_model)
+- **Rama:** `css-03`
+- 📚 Leer antes: [MDN — El modelo de caja](https://developer.mozilla.org/es/docs/Learn/CSS/Building_blocks/The_box_model)
 
 ## Todo es una caja
 

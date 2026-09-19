@@ -1,7 +1,7 @@
 # html-02 · Textos ✍️
 
-**Rama:** `html-02`
-📚 Leer antes: [MDN — Títulos y párrafos](https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals)
+- **Rama:** `html-02`
+- 📚 Leer antes: [MDN — Títulos y párrafos](https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals)
 
 ## Etiquetas nuevas
 

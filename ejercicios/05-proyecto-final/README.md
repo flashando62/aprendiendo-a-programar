@@ -1,6 +1,6 @@
 # 🏁 Proyecto final · Tu portfolio
 
-**Rama:** `proyecto-final`
+- **Rama:** `proyecto-final`
 
 Llegó el momento de juntar **todo** lo que aprendiste y publicarlo en internet con tu propio link. 🚀
 

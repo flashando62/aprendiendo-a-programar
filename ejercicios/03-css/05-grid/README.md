@@ -1,8 +1,8 @@
 # css-05 · Grid ▦
 
-**Rama:** `css-05`
-📚 Leer antes: [MDN — Grids](https://developer.mozilla.org/es/docs/Learn/CSS/CSS_layout/Grids)
-🎮 Jugar antes: [Grid Garden](https://cssgridgarden.com/#es)
+- **Rama:** `css-05`
+- 📚 Leer antes: [MDN — Grids](https://developer.mozilla.org/es/docs/Learn/CSS/CSS_layout/Grids)
+- 🎮 Jugar antes: [Grid Garden](https://cssgridgarden.com/#es)
 
 ## Flexbox vs Grid
 

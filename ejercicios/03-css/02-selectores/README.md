@@ -1,7 +1,7 @@
 # css-02 · Selectores 🎯
 
-**Rama:** `css-02`
-📚 Leer antes: [MDN — Selectores CSS](https://developer.mozilla.org/es/docs/Learn/CSS/Building_blocks/Selectors)
+- **Rama:** `css-02`
+- 📚 Leer antes: [MDN — Selectores CSS](https://developer.mozilla.org/es/docs/Learn/CSS/Building_blocks/Selectors)
 
 ## Los tres selectores básicos
 

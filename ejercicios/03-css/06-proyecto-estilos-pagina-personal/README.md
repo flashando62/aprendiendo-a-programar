@@ -1,7 +1,7 @@
 # css-06 · Mini proyecto: tu página personal con estilo 💅
 
-**Rama:** `css-06`
-📚 Leer antes: [MDN — Diseño responsivo](https://developer.mozilla.org/es/docs/Learn/CSS/CSS_layout/Responsive_Design)
+- **Rama:** `css-06`
+- 📚 Leer antes: [MDN — Diseño responsivo](https://developer.mozilla.org/es/docs/Learn/CSS/CSS_layout/Responsive_Design)
 
 ## Responsive: que se vea bien en el celular 📱
 
